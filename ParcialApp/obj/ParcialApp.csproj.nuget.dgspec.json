@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PARCIAL\\Examen_Parcial\\ParcialApp\\ParcialApp.csproj": {}
+    "C:\\Users\\ASUS\\Documents\\2024\\USMP - II\\PROGRAMACIÓN\\03\\PC02\\Examen_Parcial\\ParcialApp\\ParcialApp.csproj": {}
   },
   "projects": {
-    "D:\\PARCIAL\\Examen_Parcial\\ParcialApp\\ParcialApp.csproj": {
+    "C:\\Users\\ASUS\\Documents\\2024\\USMP - II\\PROGRAMACIÓN\\03\\PC02\\Examen_Parcial\\ParcialApp\\ParcialApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PARCIAL\\Examen_Parcial\\ParcialApp\\ParcialApp.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\2024\\USMP - II\\PROGRAMACIÓN\\03\\PC02\\Examen_Parcial\\ParcialApp\\ParcialApp.csproj",
         "projectName": "ParcialApp",
-        "projectPath": "D:\\PARCIAL\\Examen_Parcial\\ParcialApp\\ParcialApp.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\2024\\USMP - II\\PROGRAMACIÓN\\03\\PC02\\Examen_Parcial\\ParcialApp\\ParcialApp.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PARCIAL\\Examen_Parcial\\ParcialApp\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\2024\\USMP - II\\PROGRAMACIÓN\\03\\PC02\\Examen_Parcial\\ParcialApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
